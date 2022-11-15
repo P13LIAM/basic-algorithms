@@ -32,7 +32,7 @@
 - [Binary Search]()
 - [Breadth First Search]()
 - [Depth First Search]()
-- [Linear Search](https://github.com/P13LIAM/KU01-online-test/tree/master/Searching/LinearSearch)
+- [Linear Search](https://github.com/P13LIAM/basic-algorithms/tree/master/Searching/LinearSearch)
 
 
 ## Sorting
